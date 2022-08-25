@@ -12,3 +12,4 @@ chmod +x SpeciesPrimerEval_cl/SpeciesPrimerEval.R
 ## generate synthetic reads from primer pairs listed in qiime2_primer_amps.sh to provide to rscript
 Rscript SpeciesPrimerEval.R 'mifish' 12S-seqs-derep-teleo-seqs.qza 12S-tax-derep-uniq.qza 'herring' fish.txt
 
+![plot](./figs/example.png)
